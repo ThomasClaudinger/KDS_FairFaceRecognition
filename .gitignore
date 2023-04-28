@@ -1,2 +1,2 @@
-/data
-!/data/celeb_dataset/placeholder.txt
+/data/*
+!/data/placeholder.txt
