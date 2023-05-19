@@ -21,11 +21,11 @@ The folder structure is as follows:
         * list_bbox_celeba.csv (from dataset, not used in project)
         * list_eval_partition.csv (from dataset, not used in project)
         * list_landmarks_align_celeba.csv (from dataset, not used in project)
-        * normal (folder of original dataset)
-        * brighter (folder of augmented images)
-        * contrast (folder of augmented images)
-        * darker_skin (folder of augmented images)
-        * lighter_skin (folder of augmented images)
+        * **normal (folder of original dataset)**
+        * **brighter (folder of augmented images)**
+        * **contrast (folder of augmented images)**
+        * **darker_skin (folder of augmented images)**
+        * **lighter_skin (folder of augmented images)**
 
 **figures (folder)**
 * (figures and tables)
